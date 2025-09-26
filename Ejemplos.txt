@@ -1,0 +1,43 @@
+Ejemplos del Backend
+
+Lenguajes comunes en backend
+
+JavaScript (Node.js) → Muy usado en aplicaciones web modernas.
+
+Python (Django, Flask, FastAPI) → Ideal para APIs y machine learning.
+
+Java (Spring Boot) → Popular en banca y grandes corporaciones.
+
+PHP (Laravel, Symfony) → Usado en sitios web como WordPress.
+
+Ruby (Ruby on Rails) → Enfocado en startups y desarrollo rápido.
+
+Go, C# (.NET), Kotlin, Rust → Alternativas muy utilizadas en entornos específicos.
+
+Ejemplos de frameworks/backend
+
+Express.js → Backend minimalista en Node.js.
+
+Django / Flask / FastAPI → Frameworks de Python.
+
+Spring Boot → Java.
+
+ASP.NET Core → C#.
+
+Laravel → PHP.
+
+Ejemplos de funciones que hace un backend
+
+Autenticación de usuarios → inicio de sesión con email y contraseña.
+
+Manejo de base de datos → guardar productos, usuarios o pedidos.
+
+Procesar pagos → integración con Stripe o PayPal.
+
+Exponer APIs REST/GraphQL → que el frontend consuma datos.
+
+Validar información → verificar que los datos enviados por el cliente sean correctos.
+
+Manejo de sesiones → saber qué usuario está conectado.
+
+Integraciones → conectar con servicios externos (ej. Google Maps, correos, WhatsApp).
