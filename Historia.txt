@@ -1,0 +1,12 @@
+¿Qué es el backend y para qué sirve?
+
+El backend es la parte de un sitio web o aplicación que no se ve, pero que hace que todo funcione. Es donde se manejan los
+datos, la lógica del negocio, la seguridad y la comunicación con la base de datos. Por ejemplo, 
+cuando inicias sesión en una app, el backend verifica tu usuario y contraseña, y te da acceso si 
+todo está correcto.
+
+Funciona con lenguajes como Python, Java, PHP o Node.js, y se conecta con el frontend
+ (la parte que ves) para que el usuario tenga una experiencia completa.
+
+En resumen, el backend es el motor que hace que una aplicación funcione 
+correctamente, aunque esté “oculto” tras la pantalla.
